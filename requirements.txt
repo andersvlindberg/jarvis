@@ -1,0 +1,9 @@
+# Utkast, inte låst än
+claude-agent-sdk
+SpeechRecognition
+pyaudio
+edge-tts
+pywebview
+python-dotenv
+keyboard
+# senare: faster-whisper, openwakeword
